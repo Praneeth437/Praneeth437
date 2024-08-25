@@ -1,0 +1,4 @@
+- 👋 Hello, Myself Praneeth.
+- 👀 I’m interested in Full-Stack-Web-Development.
+- 🌱 I’m currently learning Java Full Stack.
+- 💞️ I’m looking to get my first dream job to contribute my skills and knowledge to the company.
